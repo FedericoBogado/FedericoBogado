@@ -12,7 +12,7 @@ class FedericoBogado:
         }
         self.habilities = {
             'Lenguaje': 'Python' ,
-            'Herramientas': ['Numpy', 'Pandas', 'TensorFlow']
+            'Librerias y Frameworks': ['Numpy', 'Pandas', 'TensorFlow']
         }
         
         

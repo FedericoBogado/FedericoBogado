@@ -32,7 +32,7 @@ yo = FedericoBogado()
   </a>
 </p>
 
-<h2 align="center">📊 Stats 📊</h2>
+<h2 align="center">💻 Stats 💻</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FedericoBogado&show_icons=true&title_color=74C250&icon_color=74C250&text_color=9f9f9f&bg_color=151515" alt="FedericoBogado :: Profile Stats" /></p>
 

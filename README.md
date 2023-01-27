@@ -20,8 +20,20 @@ class FedericoBogado:
 yo = FedericoBogado()
 ```
 
-## 💻 Stats 💻
+<h2 align="center">🔗 Links 🔗</h2>
 
-![FedericoBogado](https://github-readme-stats.vercel.app/api?username=FedericoBogado&show_icons=true&title_color=74C250&icon_color=74C250&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  <a href="https://github.com/FedericoBogado">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="FedericoBogado GitHub" height="60" width="60">
+  </a>
 
-![FedericoBogado](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoBogado&langs_count=10&theme=tokyonight&layout=compact&title_color=74C250&bg_color=151515)
+  <a href="https://www.linkedin.com/in/federico-bogado/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="FedericoBogado Linkedin" height="60" width="60">
+  </a>
+</p>
+
+<h2 align="center">📊 Stats 📊</h2>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FedericoBogado&show_icons=true&title_color=74C250&icon_color=74C250&text_color=9f9f9f&bg_color=151515" alt="FedericoBogado :: Profile Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoBogado&langs_count=10&theme=tokyonight&layout=compact&title_color=74C250&bg_color=151515" alt="FedericoBogado :: Top Langs" /></p>

@@ -6,6 +6,7 @@ class FedericoBogado:
 
     def __init__(self):
         self.name = "Federico Ezequiel Bogado De Oliveira Manarte"
+        self.live_in = "Buenos Aires, Argentina"
         self.open_to_work = True
         self.education = {
             'Secundario': ['Tecnico en electronica', 'E.E.S.T.N5 de Temperley "2 De Abril"', '2015-2021'],
@@ -29,6 +30,10 @@ yo = FedericoBogado()
 
   <a href="https://www.linkedin.com/in/federico-bogado/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="FedericoBogado Linkedin" height="60" width="60">
+  </a>
+    
+  <a href="mailto:bogadofedericoezequiel@gmail.com">
+    <img alt="FedericoBogado Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="60" width="60">
   </a>
 </p>
 

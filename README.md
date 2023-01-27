@@ -12,6 +12,10 @@ class FedericoBogado:
             'Secundario': ['Tecnico en electronica', 'E.E.S.T.N5 de Temperley "2 De Abril"', '2015-2021'],
             'Universidad': ['Ingeniero en informatica', 'Universidad de Buenos Aires', '2022-actualidad']
         }
+        self.rol = {
+            'Python developer': 'Junior',
+            'Machine learning engineer': 'Trainee'
+        }
         self.habilities = {
             'Lenguaje': 'Python' ,
             'Librerias y Frameworks': ['Numpy', 'Pandas', 'TensorFlow']

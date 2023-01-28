@@ -43,6 +43,6 @@ yo = FedericoBogado()
 
 <h2 align="center">💻 Stats 💻</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FedericoBogado&show_icons=true&title_color=74C250&icon_color=74C250&text_color=9f9f9f&bg_color=151515" alt="FedericoBogado :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FedericoBogado&show_icons=true&title_color=009929&icon_color=009929&text_color=413e40&bg_color=121012" alt="FedericoBogado :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoBogado&langs_count=10&theme=tokyonight&layout=compact&title_color=74C250&bg_color=151515" alt="FedericoBogado :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoBogado&langs_count=10&theme=tokyonight&layout=compact&title_color=009929&bg_color=121012" alt="FedericoBogado :: Top Langs" /></p>

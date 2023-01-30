@@ -32,11 +32,11 @@ yo = FedericoBogado()
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="FedericoBogado GitHub" height="60" width="60">
   </a>
 
-  <a href="https://www.linkedin.com/in/federico-bogado/">
+  <a href="https://www.linkedin.com/in/federico-bogado/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="FedericoBogado Linkedin" height="60" width="60">
   </a>
     
-  <a href="mailto:bogadofedericoezequiel@gmail.com">
+  <a href="mailto:bogadofedericoezequiel@gmail.com" target="_blank">
     <img alt="FedericoBogado Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="60" width="60">
   </a>
 </p>

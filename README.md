@@ -16,7 +16,7 @@ class FedericoBogado:
             'Python developer': 'Junior',
             'Machine learning engineer': 'Trainee'
         }
-        self.habilities = {
+        self.skill_set = {
             'Language': 'Python' ,
             'Libraries and frameworks': ['Numpy', 'Pandas', 'TensorFlow']
         }

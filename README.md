@@ -1,4 +1,4 @@
-# Hola! 👋
+# Hello there! 👋
 
 ```python
 class FedericoBogado:
@@ -9,20 +9,20 @@ class FedericoBogado:
         self.live_in = "Buenos Aires, Argentina"
         self.open_to_work = True
         self.education = {
-            'Secundario': ['Tecnico en electronica', 'E.E.S.T.N5 de Temperley "2 De Abril"', '2015-2021'],
-            'Universidad': ['Ingeniero en informatica', 'Universidad de Buenos Aires', '2022-actualidad']
+            'Secondary': ['Electronics Technician', 'E.E.S.T.N5 of Temperley "2 De Abril"', '2015-2021'],
+            'University': ['Computer Engineering', 'University of Buenos Aires', '2022-present']
         }
         self.rol = {
             'Python developer': 'Junior',
             'Machine learning engineer': 'Trainee'
         }
         self.habilities = {
-            'Lenguaje': 'Python' ,
-            'Librerias y Frameworks': ['Numpy', 'Pandas', 'TensorFlow']
+            'Language': 'Python' ,
+            'Libraries and frameworks': ['Numpy', 'Pandas', 'TensorFlow']
         }
         
         
-yo = FedericoBogado()
+I = FedericoBogado()
 ```
 
 <h2 align="center">🔗 Links 🔗</h2>

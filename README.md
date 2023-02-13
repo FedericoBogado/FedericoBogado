@@ -18,7 +18,7 @@ class FedericoBogado:
         }
         self.skill_set = {
             'Language': 'Python' ,
-            'Libraries and frameworks': ['Numpy', 'Pandas', 'TensorFlow']
+            'Libraries and frameworks': ['Numpy', 'Pandas', 'Matplotlib', 'Seaborn', 'TensorFlow']
         }
         
         

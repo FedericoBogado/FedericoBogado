@@ -13,12 +13,13 @@ class FedericoBogado:
             'University': ['Computer Engineering', 'University of Buenos Aires', '2022-present']
         }
         self.rol = {
+            'Android developer': 'Junior',
             'Python developer': 'Junior',
             'Machine learning engineer': 'Trainee'
         }
         self.skill_set = {
-            'Language': 'Python' ,
-            'Libraries and frameworks': ['Numpy', 'Pandas', 'Matplotlib', 'Seaborn', 'OpenCV', 'Tkinter', 'TensorFlow']
+            'Language': ['Python', 'Kotlin'],
+            'Libraries and frameworks': ['Numpy', 'Pandas', 'Matplotlib', 'Seaborn', 'OpenCV']
         }
         
         

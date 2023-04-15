@@ -13,7 +13,7 @@ class FedericoBogado:
             'University': ['Computer Engineering', 'University of Buenos Aires', '2022-present']
         }
         self.rol = {
-            'Android developer': 'Junior',
+            'Android developer': 'Trainee',
             'Python developer': 'Junior',
             'Machine learning engineer': 'Trainee'
         }
